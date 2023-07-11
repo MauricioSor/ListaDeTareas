@@ -13,12 +13,12 @@
 - Morgan
  
 # Tutorial for Install and run this project 📓:
-1. Install nodemon
-1.1 `` npm install -g nodemon ``
-3.  Install Express
-3.1  `` npm install express --save``
-4.  Install babel , cors, morgan, dotenv, mongoose
-4.1 `` babel-cli babel-preset-env express-validator mongoose cors morgan dotenv babel-node ``
+1. Install nodemon </br>
+1.1 `` npm install -g nodemon `` </br>
+3.  Install Express </br>
+3.1  `` npm install express --save`` </br>
+4.  Install babel , cors, morgan, dotenv, mongoose </br>
+4.1 `` babel-cli babel-preset-env express-validator mongoose cors morgan dotenv babel-node `` </br>
 
 ## Author
 [Mauricio Soria](https://github.com/MauricioSor)
